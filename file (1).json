@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Praia de Bombinhas",
+        "type": "Praia",
+        "coordinates": [-48.5737, -27.3065],
+        "description": "Uma das praias mais famosas da região, ideal para famílias.",
+        "image": "link_da_imagem" // Substitua por uma URL de imagem
+    },
+    {
+        "name": "Praia do Ribeiro",
+        "type": "Praia",
+        "coordinates": [-48.5915, -27.3125],
+        "description": "Praia tranquila com águas cristalinas.",
+        "image": "link_da_imagem" // Substitua por uma URL de imagem
+    }
+]
